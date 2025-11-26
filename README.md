@@ -15,16 +15,16 @@ A BER heatmap, CSV summary and signal reconstruction plots are generated for ana
 
 **Modulation Schemes Evaluated**
 
--BPSK
--QPSK
--OQPSK
--π/4 QPSK
--8PSK
--16PSK
--64QAM
--256QAM
--DPSK
--OFDM
+BPSK
+QPSK
+OQPSK
+π/4 QPSK
+8PSK
+16PSK
+64QAM
+256QAM
+DPSK
+OFDM
 
 
 
